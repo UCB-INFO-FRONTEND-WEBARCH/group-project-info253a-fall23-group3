@@ -1,6 +1,4 @@
-# group-project-info253a-fall23-group3
-group-project-info253a-fall23-group3 created by GitHub Classroom
-Part I - Project Brief 
+# Part I - Project Brief 
 Interact with your assigned group and submit a project idea 
 One person on the team should create the group’s Github repository, and the rest of the team should be added to the same repo.
 Each team needs to come up with a web application that they would like to build and why. 
@@ -14,10 +12,10 @@ One paragraph to summarize your idea
 What External API you plan to use and why
 Push the initial proposal in a PROPOSAL.md file to your group project page on GitHub. Submit the GitHub repo link to bCourses (1 submission per team)
 We will take a look at initial drafts of the web application that you have chosen to build and comment on the feasibility of your project idea and return with comments
-Part II - Build the project
+# Part II - Build the project
 This is the part where you implement your web application using React. Happy Coding!
 
-Presentations to take place in-person during RRR week
+# Presentations to take place in-person during RRR week
 
 Each team will have one repository where they will push their changes. Please use this new repository for all work on this project. 
 This could be the first time where you are using GitHub while collaborating with others. Beware of merge conflicts and editing the same file with someone else.
