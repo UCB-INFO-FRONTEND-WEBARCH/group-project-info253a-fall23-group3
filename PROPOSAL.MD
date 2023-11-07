@@ -1,9 +1,9 @@
 # INFO 253A Final Project: AI Job Portal Frontend Project
 
-## JobPioneers(Team Name): 
+## Team Name: 
 MAGIC JOB HUNTING
 
-## Group Members: 
+## Talent Trailblazers(Group Members): 
 * Xiang Xiong
 * Ticky Shi
 * Mayank Sethi
