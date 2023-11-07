@@ -1,4 +1,4 @@
-# INFO 253A Final Project: AI Job Portal Frontend Project
+# INFO 253A Final Project: AI Job Portal Front-end Project
 
 ## Team Name: 
 MAGIC JOB HUNTING
