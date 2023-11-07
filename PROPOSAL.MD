@@ -21,7 +21,9 @@ We seek approval to proceed with development and bring this innovative AI job po
 Here are the API's we might use in this project:
 
 1. LinkedIn API
+
 LinkedIn API Description: We will leverage the LinkedIn API to integrate social login and allow users to sign in with their LinkedIn profiles. This enhances user experience by simplifying registration and login processes.
 
 2. OpenAI API
+
 OpenAI API Description: The OpenAI API will be used to generate AI-powered job descriptions for each job listing, making them more informative and engaging. This feature aims to provide job seekers with a clearer understanding of job opportunities.
