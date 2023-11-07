@@ -9,7 +9,7 @@ MAGIC JOB HUNTING
 * Mayank Sethi
 * Lisa Kasamba
 
-## Summery: 
+## Summary: 
 Proposal: AI Job Portal Frontend Project
 
 We propose developing an AI-powered job portal frontend using React, JavaScript, and CSS. This project aims to enhance the job-seeking experience by integrating AI to provide more informative job listings. Key features include AI-generated job descriptions, user profiles, job search filters, and job alerts. The technology stack comprises React for the UI, integration with job listing APIs and a local storage for storing user profiles and saved job listings. The project will follow a 4-week timeline, including planning, development, testing, and deployment.
