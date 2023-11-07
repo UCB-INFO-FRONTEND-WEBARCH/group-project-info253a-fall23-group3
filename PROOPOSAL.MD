@@ -1,7 +1,7 @@
 # INFO 253A Final Project 
 
 ## Team Name: 
-
+MAGIC JOB HUNTING
 
 ## Group Members: 
 * Xiang Xiong
