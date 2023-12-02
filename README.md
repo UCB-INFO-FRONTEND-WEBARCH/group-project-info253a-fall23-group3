@@ -1,62 +1,70 @@
-# INFO 253A - Final Project
+# Getting Started with Create React App
 
-## Objective
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### For this project you will accomplish the following:
-- Build an API of your choosing with yourself and 4-5 other team members
-- Learn how to collaborate to build a React application
-- Show off your Front-End skills
+## Available Scripts
 
-### The project is split into three parts
-1. Defining your project with your assigned team
-2. Implementing your project idea, presenting to the class
-3. And writing about it.
+In the project directory, you can run:
 
-### Your team must complete the following:
-1. Think of a front end web application that you would like to build
-2. Build the front end web application that you came up with
-3. Utilize at least one external API
-4. Demo the front end web application and present it to the rest of the class
-5. Submit a write-up that consists of a description and the purpose of your application and talks about the API that you used
+### `npm start`
 
-## Part I - Project Brief
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Note: _This will be 5% of your overall class grade._
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- Interact with your assigned group and submit a project idea (by November 7th, 2022 - 11:59 PM) 
-- One person on the team create the group’s Github repository, and the rest of the team joining the same repo
-- Each team needs to come up with a web application that they would like to build and why. Also talk about the external API that you would be using. Here are some examples:
-    - A game of chess
-    - A localized weather application that displays the weather for each app based on the location you provide
-    - An interactive UI for a music player
-- What to put in your proposal?
-    - Team name & your members
-    - One paragraph to summarize your idea
-    - What API you plan to use
-- Push the initial proposal in a proposal.md file to your group project page on GitHub. Submit the GitHub repo link to bCourses (1 submission per team)
-- We will take a look at initial drafts of the web application that you have chosen to build and comment on the feasibility of your project idea and return with comments
+### `npm test`
 
-## Part II - Project Implementation
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Note: _This will be 20% of your overall class grade._
+### `npm run build`
 
-This is the part where you implement your web application using REACT. Happy Coding!
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- Each team will have one repository where they will push their changes. Please use this new repository for all work on this project.
-- This could be the first time where you are using GitHub while collaborating with others. Beware of merge conflicts and editing the same file with someone else.
-    - git pull often
-- Commit all changes in the repo
-- Prepare and deliver your project and a presentation
-    - Prep for a 5 minute presentation
-    - Limit your slides to 5 pages max. Demoing your application in-person is imperative.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Part III - Project Documentation
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Note: _This will be 5% of your overall class grade._
+### `npm run eject`
 
-- Apart from the 5 slide presentation, make sure that your code is well commented.
-- Write a 2 page document on what you did and name it LEARNINGS.md. This should contain the following:
-    - Team name & your members
-    - What was your original goal and how much of it were you able to achieve?
-    - A description of what your project does and the functionality that it provides
-    - What did you learn from the project? Talk about the mistakes you made, challenges you overcame or the tools that you got to learn etc
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
